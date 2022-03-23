@@ -45,9 +45,12 @@ Check if we edit and go back
 
 
 -- reset pt4
+<<<<<<< HEAD
 
 -- reset p5
 
 -- reset p6
 
 
+=======
+>>>>>>> parent of b0b9d93 (add p5)
