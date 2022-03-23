@@ -16,7 +16,7 @@ look back and reflect on the solution -
 
 Strategies & Insights
 
----
+--- reset pt2
 Exercise One: Solving Day-to-Day problems
 
 Problem Solving
@@ -41,3 +41,7 @@ look back and reflect on the solution -
 Strategies & Insights
 
 Check if we edit and go back
+-- reset pt3
+
+
+-- reset pt4
