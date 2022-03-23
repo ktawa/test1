@@ -5,6 +5,8 @@
 ---
 Exercise Two: Sorting Numbers
 
+--reset pt1
+
 Problem Solving
 
 understand and explore the problem - 
